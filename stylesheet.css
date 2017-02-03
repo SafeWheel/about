@@ -14,6 +14,7 @@ body {
 }
 #title {
     display:inline;
+    border:1px solid gray;
     box-shadow:2px 2px 4px;
     margin:auto;
     padding:both;
@@ -24,6 +25,7 @@ ul {
     list-style-type: none;
     margin: auto;
     padding: both;
+    border:1px solid gray;
     background-color:#e0e0e0;
     box-shadow:2px 2px 4px;
 }

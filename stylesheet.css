@@ -4,9 +4,9 @@
 h1 {
     border:2px solid #f44242;
     border-radius:2px;
-    padding:10px;
+    padding:both;
     margin:5px;
-    box-shadow:2px 2px 4px
+    box-shadow:2px 2px 4px;
 }
 body {
     /*background-color:#5f877d;

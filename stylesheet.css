@@ -20,6 +20,6 @@ body {
 .title {
     float:top;
     box-shadow:2px 2px 4px;
-    margin:auto;
+    padding:both;
     border-radius=2.5px;
 }

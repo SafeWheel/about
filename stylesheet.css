@@ -7,11 +7,6 @@ h1 {
     font-family:"Raleway Dots", cursive;
     background-color:#2ca083;
     display:inline;
-    border:1px solid gray;
-    border-radius:2.5px;
-    box-shadow:2px 2px 4px;
-    margin:auto;
-    padding:both;
 }
 body {
     /*background-color:#5f877d;
@@ -19,7 +14,11 @@ body {
     background-color:white;
 }
 #title {
-    
+    border:1px solid gray;
+    border-radius:2.5px;
+    box-shadow:2px 2px 4px;
+    margin:auto;
+    padding:both;
 }
 ul {
     list-style-type: none;

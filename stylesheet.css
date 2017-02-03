@@ -4,8 +4,8 @@
 h1 {
     border:2px solid #f44242;
     border-radius:2px;
-    padding:both;
-    margin:5px;
+    padding:10px;
+    margin:both;
     box-shadow:2px 2px 4px;
 }
 body {

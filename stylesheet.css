@@ -15,7 +15,7 @@ ul {
 
 li {
     width:100%;
-    display: inline-block;
+    display: inline;
     float: left;
     text-align: center;
     border: 1px solid white;

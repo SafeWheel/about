@@ -4,7 +4,6 @@
 h1 {
     font-size:42px;
     text-align:center;
-    display:inline;
     font-family:"Raleway Dots", cursive;
 }
 body {
@@ -19,4 +18,5 @@ body {
     margin:auto;
     padding:both;
     border-radius:2.5px;
+    width: 100%;
 }

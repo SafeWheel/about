@@ -12,6 +12,8 @@
 }
 
 ul {
+    position: relative;
+    right: 500;
     list-style-type: none;
     margin: auto;
     padding: both;
@@ -21,14 +23,14 @@ li {
     display: inline-block;
     margin: auto;
     padding: both;
-    text-align:center;
+    text-align: center;
 }
 
 #title {
     border: 1px solid white;
     border-radius: 2.5px;
     background-color: #2ca083;
-    color:white;
+    color: white;
     margin: auto;
     padding: both;
     width:300px;

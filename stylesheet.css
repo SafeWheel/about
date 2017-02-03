@@ -2,10 +2,10 @@
     font-family: 'Raleway', sans-serif;
 }
 h1 {
-    border:2px solid #f44242;
+    border:2px solid white;
     border-radius:2px;
     padding:10px;
-    margin:both;
+    margin:auto;
     box-shadow:2px 2px 4px;
 }
 body {

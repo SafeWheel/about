@@ -15,11 +15,10 @@ body {
 #title {
     display:inline;
     border:1px solid gray;
+    border-radius:2.5px;
     box-shadow:2px 2px 4px;
     margin:auto;
     padding:both;
-    border-radius:2.5px;
-    width: 100%;
 }
 ul {
     list-style-type: none;

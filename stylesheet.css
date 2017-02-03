@@ -18,7 +18,7 @@ ul {
 }
 
 li {
-    display: inline;
+    display: inline-block;
     margin: auto;
     padding: both;
     text-align:center;

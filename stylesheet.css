@@ -11,7 +11,7 @@ body {
     width=500px;*/
     background-color:white;
 }
-.title {
+#title {
     display:inline;
     box-shadow:2px 2px 4px;
     margin:auto;

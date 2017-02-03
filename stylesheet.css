@@ -13,7 +13,6 @@ body {
 }
 .title {
     display:inline;
-    float:both;
     box-shadow:2px 2px 4px;
     margin:auto;
     padding:both;

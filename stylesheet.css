@@ -3,6 +3,7 @@
 }
 #nav {
     border: 1px solid #f7f7f7;
+    border-radius: 2.5px;
     background-color: #f7f7f7;
     box-shadow: 2px 2px 6px;
     margin: auto;
@@ -17,9 +18,9 @@ li {
     display: inline;
     margin: auto;
     padding: both;
+    text-align:center;
 }
 #title {
-    display: inline;
     border: 1px solid gray;
     border-radius: 2.5px;
     box-shadow: 2px 2px 6px;

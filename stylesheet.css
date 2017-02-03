@@ -18,7 +18,8 @@ body {
     padding:both;
     border-radius:2.5px;
     width: 100%;
-    background-color:#e0e0e0;
+    background-color:#2ca083;
+    color:white;
 }
 ul {
     list-style-type: none;

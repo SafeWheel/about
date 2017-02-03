@@ -17,8 +17,8 @@ body {
     background-color:white;
 }
 .title {
-    position:relative;
-    float:top;
+    position:inline;
+    float:both;
     box-shadow:2px 2px 4px;
     margin:auto;
     padding:both;

@@ -13,16 +13,15 @@
 
 ul {
     position: relative;
-    right: 500;
     list-style-type: none;
-    margin: auto;
-    padding: both;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
 li {
     display: inline-block;
-    margin: auto;
-    padding: both;
+    float: left;
     text-align: center;
 }
 

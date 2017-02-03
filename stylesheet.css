@@ -2,8 +2,8 @@
     font-family: 'Raleway', sans-serif;
 }
 #nav {
-    border: 1px solid gray;
-    background-color: #e0e0e0;
+    border: 1px solid #f7f7f7;
+    background-color: #f7f7f7;
     box-shadow: 2px 2px 4px;
 }
 ul {

@@ -1,6 +1,7 @@
 * {
     font-family: 'Raleway', sans-serif;
 }
+
 #nav {
     border: 1px solid #f7f7f7;
     border-radius: 2.5px;
@@ -9,17 +10,20 @@
     margin-bottom: 9px;
     padding: both;
 }
+
 ul {
     list-style-type: none;
     margin: auto;
     padding: both;
 }
+
 li {
     display: inline;
     margin: auto;
     padding: both;
     text-align:center;
 }
+
 #title {
     border: 1px solid gray;
     border-radius: 2.5px;
@@ -28,6 +32,7 @@ li {
     margin: auto;
     padding: both;
 }
+
 h1 {
     display: inline;
     font-size: 42px;
@@ -36,6 +41,7 @@ h1 {
     margin: auto;
     padding: both;
 }
+
 body {
     /*background-color:#5f877d;
     width=500px;*/

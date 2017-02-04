@@ -6,7 +6,7 @@ span {
     display: inline;
 }
 
-ul {
+table {
     position: relative;
     list-style-type: none;
     margin: 0;
@@ -14,7 +14,7 @@ ul {
     overflow: hidden;
 }
 
-li {
+tr {
     width:100%;
     display: inline;
     float: left;

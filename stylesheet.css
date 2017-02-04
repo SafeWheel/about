@@ -6,7 +6,7 @@ span {
     display: inline;
 }
 
-.nav {
+#nav {
     position: relative;
     list-style-type: none;
     display: inline;

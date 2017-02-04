@@ -9,13 +9,6 @@ span {
 .nav {
     position: relative;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-tr {
-    width:100%;
     display: inline;
     float: left;
     text-align: center;
@@ -24,6 +17,13 @@ tr {
     background-color: white;
     box-shadow: 2px 2px 6px;
     margin-bottom: 9px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+tr {
+    width:100%;
     padding: both;
 }
 

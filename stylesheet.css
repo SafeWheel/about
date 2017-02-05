@@ -41,7 +41,7 @@ ul {
     padding: 8px;
 }
 
-li:first-child {
+li {
     display: inline;
-    padding-left:50px;
+    padding: 8px;
 }

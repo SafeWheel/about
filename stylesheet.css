@@ -26,8 +26,7 @@ body {
 }
 
 #nav {
-    position: fixed;
-    display: relative;
+    position: relative;
     background-color: white;
     box-shadow: 2px 2px 6px;
     border: 1px solid white;
@@ -51,7 +50,10 @@ li:hover {
     padding: 8px;
 }
 
-#explain {
+.explain {
     font-size: 14;
     text-align: center;
+    margin: auto;
+    padding: both;
+    width: 75%;
 }

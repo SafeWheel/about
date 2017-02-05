@@ -49,4 +49,5 @@ li {
 
 li:hover {
     background-color: #f44242;
+    padding: 8px;
 }

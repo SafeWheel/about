@@ -44,9 +44,9 @@ ul {
 li {
     font-size; 16px
     display: inline;
-    padding: 8px;
+    padding: 4px;
 }
 
 li:hover {
-    box-shadow: 4px 4px 12px;
+    box-shadow: 2px 2px 12px;
 }

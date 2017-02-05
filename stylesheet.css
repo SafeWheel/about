@@ -3,13 +3,11 @@
 }
 
 #title {
-    border: 1px solid white;
+    border: 1px none white;
     border-radius: 2.5px;
-    background-color: #2ca083;
-    color: white;
+    color: #2ca083;
     margin: auto;
     padding: both;
-    width: 500px;
 }
 
 h1 {
@@ -29,6 +27,7 @@ body {
 
 #nav {
     position: fixed;
+    display: relative;
     background-color: white;
     box-shadow: 2px 2px 6px;
     border: 1px solid white;

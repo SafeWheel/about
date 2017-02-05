@@ -48,5 +48,5 @@ li {
 }
 
 li:hover {
-    box-shadow: 2px 2px 12px;
+    background-color: #f44242;
 }

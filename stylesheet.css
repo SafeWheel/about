@@ -50,4 +50,9 @@ li:hover {
     padding: 8px;
 }
 
-
+.sorry {
+    padding: both;
+    margin: auto;
+    background-color: white;
+    
+}

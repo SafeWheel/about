@@ -54,5 +54,25 @@ li:hover {
     padding: both;
     margin: auto;
     background-color: white;
-    
+    border: 1px none white;
+    border-radius: 2.5px;
+}
+
+.explain {
+    padding: both;
+    margin: auto;
+    color: #f44242;
+
+p {
+    padding: both;
+    margin: auto;
+    color: white;
+}
+
+#button {
+    padding: both;
+    margin: auto;
+    background-color:#f44242;
+    border: 1px none #f44242;
+    border-radius: 2.5px;
 }

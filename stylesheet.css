@@ -41,6 +41,7 @@ ul {
     padding: 8px;
 }
 
-li {
+li:first-child {
     display: inline;
+    padding-left:50px;
 }

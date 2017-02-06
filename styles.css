@@ -77,6 +77,10 @@ p {
     border-radius: 2.5px;
 }
 
-.active {
+li.active {
     border-bottom:2px solid #f44242;
+}
+
+li a {
+    text-decoration: none;
 }

@@ -76,3 +76,7 @@ p {
     border: 2.5px none #f44242;
     border-radius: 2.5px;
 }
+
+.active {
+    border-bottom:2px solid #f44242;
+}

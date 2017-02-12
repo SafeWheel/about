@@ -19,6 +19,15 @@ h1 {
     padding: both;
 }
 
+h3 {
+    display: inline-block;
+    border-left: 3px solid #f44242;
+    background-color: #ef8d8d;
+    font-size: 20px;
+    height: 10%;
+    width: 40%;
+}
+
 body {
     /*background-color:#5f877d;
     width=500px;*/

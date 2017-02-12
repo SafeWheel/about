@@ -69,11 +69,9 @@ p {
     color: white;
 }
 
-#button {
-    padding: both;
-    margin: auto;
-    background-color:#f44242;
-    border: 2.5px none #f44242;
+.button {
+    background-color: #f44242;
+    border: 2px solid #f44242;
     border-radius: 2.5px;
 }
 
